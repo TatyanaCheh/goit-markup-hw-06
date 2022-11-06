@@ -391,6 +391,7 @@ color: var(--tetriary-text-color)
 
 .accept-input:hover + .checkbox {
  border-color: var(--btn-activ-color);
+ transition: var(--cubic-bezier)
 }
 
 .terms {
